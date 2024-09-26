@@ -6,8 +6,14 @@ I have developed my career in the large-scale online gaming industry, refining m
 * * *
 ### What You'll Find Here
 📚 In my GitHub repositories, you can find a collection of projects showcasing my knowledge in Data Science, Big Data Engineering and Machine Learning. My projects demonstrate my ability to tackle complex data challenges and optimize product performance in the gaming industry. 
+Featured Projects
+#### Here are Some Key Projects
+- AI Chatbot Using Solar LLM: Developed a Document AI chatbot using Solar LLM and Kafka for efficient real-time retrieval and generation, with a focus on building a RAG (Retrieval-Augmented Generation) chatbot designed to handle complex documents and provide real-time, accurate answers. *[Link](https://github.com/youngyoony/rag_llm_project)* 
+- Streamlining Data Processing: A Dockerized PySpark and Elasticsearch Pipeline for Real-time Data Visualization: Utilized financial API data to create an end-to-end processing pipeline with Docker, PySpark, Elasticsearch, and Kibana for real-time financial data visualization. *[Link](https://github.com/youngyoony/Spark-ETL-Project)*
+- MMORPG Player Behavior and Engagement Analysis: Utilized Python, Pandas, Seaborn, Matplotlib, PyCaret, and MiniBatch KMeans to analyze player data, focusing on combat power, user engagement, and in-game activities. Applied regression and clustering to predict behavior, segment users, and support retention strategies. *[Link1](http://youngyoon.me/archives/30)* *[Link2](http://youngyoon.me/archives/52)* *[Link3](http://youngyoon.me/archives/54)* *[Link4](http://youngyoon.me/archives/400)* 
+- Analyzing Top-Tier League of Legends Players​: Data Cleaning and Behavioral Analysis of Challenger and Professional Gamers: Leveraged the League of Legends API to clean and analyze gameplay data, focusing on the behaviors of top Challenger players and professional e-sports gamers. Conducted extensive data cleaning and visualized the findings using Python. *[Link](https://github.com/youngyoony/lol_django)*
 > My skills utilized include:  <br>
-> Python, SQL, Django, FastAPI, Spark, Airflow, and Tableau.
+> Python, SQL, Django, FastAPI, Spark, Kafka, Airflow, and Tableau.
 * * *
 ### Contact
 📫 I'm always eager to connect with fellow data enthusiasts, game developers, and anyone keen on discussing innovative solutions or potential collaborations. Feel free to reach out via:
