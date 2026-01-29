@@ -11,8 +11,6 @@ I have developed my career in the large-scale online gaming industry, refining m
 
 📚 In my GitHub repositories, you can find a collection of projects showcasing my knowledge in Data Science, Big Data Engineering and Machine Learning. My projects demonstrate my ability to tackle complex data challenges and optimize product performance in the gaming industry. 
 
-Featured Projects
-
 #### Here are Some Key Projects
 
 - Graph-Based RAG with Subgraph Retrieval: Built a graph-based Retrieval-Augmented Generation framework that retrieves minimal query-relevant subgraphs instead of flat documents, improving LLM reasoning accuracy and explainability for complex analytical systems. *[Link](https://github.com/youngyoony/subgraph-rag)*
